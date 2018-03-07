@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520443729 source:/home/aluno/Desktop/Roteiro1/ex3-palindromo/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
